@@ -1,0 +1,84 @@
+    [
+    {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "TechNova",
+        "location": "Remoto",
+        "type": "Tiempo completo",
+        "salary": "$1200 USD",
+        "description": "Desarrolla interfaces modernas con React y Bootstrap."
+    },
+    {
+        "id": 2,
+        "title": "Diseñador UI/UX",
+        "company": "PixelFlow",
+        "location": "Caracas, Venezuela",
+        "type": "Freelance",
+        "salary": "$800 USD",
+        "description": "Diseña experiencias visuales atractivas para apps móviles."
+    },
+    {
+        "id": 3,
+        "title": "QA Tester",
+        "company": "SoftCheck",
+        "location": "Remoto",
+        "type": "Medio tiempo",
+        "salary": "$600 USD",
+        "description": "Realiza pruebas funcionales y reporta errores en sistemas web."
+    },
+    {
+        "id": 4,
+        "title": "Desarrollador Backend",
+        "company": "CodeForge",
+        "location": "Remoto",
+        "type": "Tiempo completo",
+        "salary": "$1300 USD",
+        "description": "Construye APIs escalables con Node.js y Express."
+    },
+    {
+        "id": 5,
+        "title": "Especialista SEO",
+        "company": "RankUp",
+        "location": "Maracaibo, Venezuela",
+        "type": "Freelance",
+        "salary": "$500 USD",
+        "description": "Optimiza sitios web para mejorar su posicionamiento en buscadores."
+    },
+    {
+        "id": 6,
+        "title": "Project Manager Digital",
+        "company": "Agencia Creativa 360",
+        "location": "Remoto",
+        "type": "Tiempo completo",
+        "salary": "$1500 USD",
+        "description": "Coordina equipos de diseño y desarrollo en proyectos web."
+    },
+    {
+        "id": 7,
+        "title": "Soporte Técnico",
+        "company": "HelpDeskPro",
+        "location": "Barquisimeto, Venezuela",
+        "type": "Medio tiempo",
+        "salary": "$400 USD",
+        "description": "Atiende consultas técnicas y resuelve problemas de usuarios."
+    },
+    {
+        "id": 8,
+        "title": "Copywriter Creativo",
+        "company": "IdeasLab",
+        "location": "Remoto",
+        "type": "Freelance",
+        "salary": "$700 USD",
+        "description": "Redacta textos persuasivos para campañas digitales."
+    },
+    {
+        "id": 9,
+        "title": "Analista de Datos",
+        "company": "DataVision",
+        "location": "Valencia, Venezuela",
+        "type": "Tiempo completo",
+        "salary": "$1100 USD",
+        "description": "Analiza métricas y genera reportes para toma de decisiones."
+    }
+
+    ]

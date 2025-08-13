@@ -1,0 +1,49 @@
+    /* Estilo solo para home */
+
+    .home-container {
+    font-family: 'Segoe UI', sans-serif;
+    padding: 0 1rem;
+    }
+
+    /* Animaciones */
+    .fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeIn 0.8s ease-out forwards;
+    }
+
+    .fade-in-delay {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeIn 1.2s ease-out forwards;
+    }
+
+    @keyframes fadeIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    }
+
+    /* Responsive spacing */
+    .hero-section,
+    .steps-section,
+    .benefits-section,
+    .cta-section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    }
+
+    @media (max-width: 768px) {
+    .display-4 {
+        font-size: 2rem;
+    }
+
+    .lead {
+        font-size: 1rem;
+    }
+
+    .display-6 {
+        font-size: 1.8rem;
+    }
+}

@@ -1,0 +1,159 @@
+
+.navbar {
+    font-family: 'Segoe UI', sans-serif;
+    }
+
+.navbar-brand {
+    font-size: 1.4rem;
+    letter-spacing: 0.5px;
+    }
+
+.nav-link {
+    color: #333;
+    margin-left: 1rem;
+    }
+    
+.nav-link.active {
+    font-weight: bold;
+    color: #0d6efd; /* Bootstrap primary color */
+    }
+
+    
+
+.nav-icon i {
+    transition: transform 0.3s ease;
+}
+
+.nav-icon:hover i {
+    transform: scale(1.4) !important;
+}
+
+i {
+    gap: 4;
+    padding: 12px
+}
+
+    /* Cards de Jobs, Ojo aqui*/
+
+.card {
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.btn-outline-primary {
+    border-radius: 20px;
+}
+.btn {
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+/* Estilos para page favoritos */ 
+
+.btn-outline-danger {
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+
+/* estilos adicionales para el stats */
+
+.card-title {
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.display-6 {
+    font-weight: bold;
+}
+
+.progress {
+    height: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.progress-bar {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+/* Footer  */
+
+footer {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.link-hover:hover {
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+
+
+
+
+/* ANIMACIONES */
+
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeIn 0.6s ease-out forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 🎯 Animación para hover en enlaces */
+.link-hover:hover {
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+
+
+/* Estilitos para el footer */
+
+.footer-dark {
+    background-color: #1f1f1f;
+    color: #fff;
+    border-top: 1px solid #333;
+}
+
+.social-icons a {
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-icons a:hover {
+    transform: scale(1.2);
+  color: #0dcaf0; /* Bootstrap info color */
+}
+
+.animate-footer {
+    animation: fadeInUp 0.8s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+    opacity: 0;
+    transform: translateY(20px);
+    }
+    to {
+    opacity: 1;
+    transform: translateY(0);
+    }
+}
