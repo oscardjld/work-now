@@ -5,7 +5,7 @@ function Footer() {
         <footer className="footer-dark animate-footer">
         <div className="container text-center py-4">
             <p className="mb-2 text-light">
-            Proyecto desarrollado con 💻 por <strong>Russo</strong> — Front-End Developer
+            Proyecto desarrollado por <strong>Russo</strong> — Front-End Developer
             </p>
                 <div className="social-icons mb-2">
                     <a

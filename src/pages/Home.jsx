@@ -29,7 +29,7 @@ const Home = () => {
             <div className="col-md-4 mb-4">
                 <i className="bi bi-check-circle display-6 text-primary"></i>
                 <h5 className="mt-2">Aplica fácilmente</h5>
-                <p>Envía tu perfil con un solo clic</p>
+                <p>Envía tu perfil con un solo click</p>
             </div>
             </div>
         </section>
